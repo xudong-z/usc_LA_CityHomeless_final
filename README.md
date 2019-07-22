@@ -201,8 +201,8 @@ Future sprints:
 	- Creation of migration measure - current and future if additional data collection necessary.
 
 	- Dashboard creation
-
-  - Incorporation into main mapping tool
+	
+	- Incorporation into main mapping tool
 
 8: Creation of widget/tool that allows user to draw geographic boundaries and see a summary of estimated homelessness count, available services, and risk indicators.
 
