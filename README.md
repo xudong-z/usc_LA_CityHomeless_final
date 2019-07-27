@@ -1,5 +1,7 @@
 # Mayor’s Office - Interactive Homelessness Operations Planner and Tracker 
 
+## project delivery https://xudong-z.shinyapps.io/la_cityhomeless/
+ 
 ## About
 
 In the past year, Los Angeles County residents have passed two measures to combat homelessness (Measure H and Measure HHH). As the City seeks to administer the new funds at its disposal, it will face the challenge of having to prioritize areas of the city with high-concentrations of unsheltered homelessness, public safety incidents, and community complaints, as well as areas of high danger or health risks for the homeless community. Although current City and County data related to homelessness are vast, they are also dispersed, making it difficult for Mayor’s Office decision-makers to address the full scope or magnitude of homelessness, while prioritizing service delivery needs. 
