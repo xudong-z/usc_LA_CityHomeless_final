@@ -1,6 +1,7 @@
 # Mayor’s Office - Interactive Homelessness Operations Planner and Tracker 
 
-## project delivery https://xudong-z.shinyapps.io/la_cityhomeless/
+## Project delivery 
+https://xudong-z.shinyapps.io/la_cityhomeless/
  
 ## About
 
