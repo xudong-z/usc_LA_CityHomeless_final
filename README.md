@@ -2,6 +2,12 @@
 
 ## Project delivery 
 https://xudong-z.shinyapps.io/la_cityhomeless/
+
+#### Shelter's distribution by function
+![WX20190819-023008](https://user-images.githubusercontent.com/20660492/63228708-68d8d800-c229-11e9-91d0-c82a61e81bff.png)
+#### Homeless Service Evaluation Tools (311 call grading board)
+![311](https://user-images.githubusercontent.com/20660492/63228709-68d8d800-c229-11e9-838c-a3f5aaf33076.png)
+
  
 ## About
 
